@@ -41,7 +41,7 @@
 		<li>Conexiune stabilă</li>
 		<li>Latency scăzut</li>
 	</ul>
-	<h2>Monitorizare Resurse</h2>
+	<h2 id="trigger">Monitorizare Resurse</h2>
 	<div>
 	<div class="img-res">
 	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse1.png" alt="Monitorizare Resurse">
