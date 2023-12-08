@@ -55,9 +55,23 @@ img {
     margin-right: 20px;
 }
 
-.img-res {
+.img-container {
     display: flex;
 }
-.img-res .resurse:last-child {
+.img-container .resurse:last-child {
     margin-right: 0;
+}
+
+.imagini-container {
+    display: flex;
+    overflow: hidden;
+    width: 300px;
+}
+
+.resurse {
+    display: none;
+}
+
+.slideshow {
+    width: 300px;
 }
