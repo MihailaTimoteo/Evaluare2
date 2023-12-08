@@ -34,7 +34,7 @@
 	</tr>
 	</table>
 	<h2>Structura Rețelei</h2>
-		<img src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgdiagrama1.png" alt="Structura Rețelei">
+		<img src="F:\EarthCEO\Desktop\IA\Evaluare 2\images\imgdiagrama1.png" alt="Structura Rețelei">
 	<h2>Caracteristici Conexiune Rețea</h2>
 	 <ul class="caracteristici">
 		<li>Viteză mare de transfer a datelor</li>
@@ -43,10 +43,11 @@
 	</ul>
 	<h2 id="trigger">Monitorizare Resurse</h2>
 	<div>
-	<div class="img-res">
-	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse1.png" alt="Monitorizare Resurse">
-	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse2.png" alt="Monitorizare Resurse">
-	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse3.png" alt="Monitorizare Resurse">
-	</div>	
+	<div class="img-container">
+	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\images\imgresurse1.png" alt="Monitorizare Resurse">
+	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\images\imgresurse2.png" alt="Monitorizare Resurse">
+	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\\images\imgresurse3.png" alt="Monitorizare Resurse">
+	</div>
+	<script src="script.js"></script>
 </body>
 </html>
