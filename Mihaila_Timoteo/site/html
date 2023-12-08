@@ -1,1 +1,52 @@
+<html>
+<head>
+	<title>Evaluare 2</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div>
+	<h2>Nume: Mihaila</h2>
+	<h2>Prenume: Timoteo</h2>
+	<h2>Email: mihaila.pa.timoteo@student.utcluj.ro</h2>
 
+	<h2>Componente și Caracteristici</h2>
+	<table>
+	<table border="1">
+	<tr>
+		<th>Denumire</th>
+		<th>Producător</th>
+		<th>Parametri</th>
+	</tr>
+	<tr>
+		<th>intel core i3-9100f</th>
+		<th>INTEL</th>
+		<th>3.60GHz</th>
+	</tr>
+	<tr>
+		<th>NVIDIA GeForce GTX 1650 SUPER</th>
+		<th>NVIDIA</th>
+		<th>4GB</th>
+	</tr>
+		<tr>
+		<th>RAM</th>
+		<th>CORSAIR</th>
+		<th>12 GB</th>
+	</tr>
+	</table>
+	<h2>Structura Rețelei</h2>
+		<img src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgdiagrama1.png" alt="Structura Rețelei">
+	<h2>Caracteristici Conexiune Rețea</h2>
+	 <ul class="caracteristici">
+		<li>Viteză mare de transfer a datelor</li>
+		<li>Conexiune stabilă</li>
+		<li>Latency scăzut</li>
+	</ul>
+	<h2>Monitorizare Resurse</h2>
+	<div>
+	<div class="img-res">
+	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse1.png" alt="Monitorizare Resurse">
+	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse2.png" alt="Monitorizare Resurse">
+	<img class="resurse" src="F:\EarthCEO\Desktop\IA\Evaluare 2\imgresurse3.png" alt="Monitorizare Resurse">
+	</div>	
+</body>
+</html>
